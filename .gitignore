@@ -1,3 +1,4 @@
 datasets/
 Modalités d'évaluations/
 venv/
+fare_prediction_model.pkl
